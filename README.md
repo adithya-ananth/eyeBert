@@ -36,6 +36,3 @@ Built using streamlit, supported by ngroks and database stored on firebase.
 2. Navigate to the project directory:
    ```bash
    cd eyeBert
-
-
-# eyeBert
